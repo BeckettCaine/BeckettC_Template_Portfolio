@@ -58,8 +58,8 @@ Here's where you'll list the parts in your project. To add more rows, just copy 
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
 | **Part** | **Note** | **Price** | **Link** |
-|:--:|:--:|:--:|:--:|
-          | Prank Tissue Box | A fake tissue box that moves away when trying to be garbbed | $44.99 | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+
+          | Prank Tissue Box | ELEGOO UNO Project Super Starter Kit with Tutorial and UNO R3 Compatible with Arduino IDE | $44.99 | <a href=https://www.amazon.com/ELEGOO-Project-Tutorial-Controller-Projects/dp/B01D8KOZF4/ref=sr_1_1_sspa?crid=CC9E3AEUR0FV&keywords=sunfounder+3+in+1+starter+kit+for+arduino+uno&qid=1687551712&sprefix=3+in+1+sunfounder%2Caps%2C170&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1> Link </a> |
 |:--:|:--:|:--:|:--:|
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
