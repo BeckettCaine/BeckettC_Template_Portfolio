@@ -4,8 +4,6 @@ My project is the Prank Tissue Box. This project is a car that you can use to pr
 |:--:|:--:|:--:|:--:|
 | Beckett C | The Bishops School | Electrical Engineering | Incoming Freshman
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
 ![Headstone Image](unnamed.jpg)
   
 # Final Milestone
@@ -35,7 +33,7 @@ My first milestone is the completion of the basic car. It is able to move forwar
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
-unnamed.jpg
+![Headstone Image](unnamed.jpg)
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
