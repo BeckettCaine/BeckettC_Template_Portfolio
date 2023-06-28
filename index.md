@@ -55,4 +55,4 @@ void loop() {
 
 # Other Resources/Examples
 
-Project description: https://www.hackster.io/gatoninja236/pranked-moving-tissue-box-circuito-io-d6989b?ref=channel&ref_id=424_published___&offset=57
+Project description: <a href="https://www.hackster.io/gatoninja236/pranked-moving-tissue-box-circuito-io-d6989b?ref=channel&ref_id=424_published___&offset=57"> Prank Tissue Box </a>
